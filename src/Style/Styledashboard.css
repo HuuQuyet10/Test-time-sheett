@@ -1,0 +1,17 @@
+.style-component-dashboard{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.style-icon-list{
+    color: red;
+    font-size: 16px;
+    margin-top: 7px;
+    margin-right: -9px;
+}
+.style-les-hr{
+    border-top: 0px solid red;
+    margin-top: 40px;
+}
+.style-deltai{
+    display: flex;
+}

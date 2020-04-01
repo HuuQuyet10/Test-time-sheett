@@ -1,0 +1,47 @@
+.backtou{
+    background-color: white;
+}
+.style-hdvf{
+    margin-top: 39px;
+    text-align: center;
+}
+.style-hdvf p{
+    margin-top: 22px;
+    font-size: 15px;
+}
+.style-logout{
+    background-color: #c2c2a3;
+}
+.Bodyweb{
+    background-color: white;
+}
+.style-hr-sider{
+    margin-top: 26px;
+    margin-left: 18px;
+    border: 1px solid #cfefef;
+    margin-right: 18px;
+    margin-bottom: 19px;
+}
+.style-sider-menu{
+    margin-bottom: 10px;
+}
+.styleicon{
+    top: 14px;
+    float: left;
+    padding: 20px;
+    background-color: tomato;
+    position: fixed;
+}
+.styleicon i{
+    color: white;
+    font-size: 42px;
+}
+.style-tx-p{
+    text-align: right;
+}
+.style-tx-p .tx-p-1 {
+    font-size: 17px;
+}
+.style-tx-p .tx-p-2 {
+    font-size: 20px;
+}

@@ -1,0 +1,40 @@
+.style-tabs-index{
+    text-align: left;
+    background-color: white;
+}
+.style-duan{
+    padding-left: 20px;
+    margin-top: 22px;
+    margin-left: 32px;
+    border-top: 1px solid #42b6f5;
+    display: flex;
+}
+.style-duan i{
+    color: white;
+    position: absolute;
+    background-color: yellowgreen;
+    font-size: 37px;
+    top: 61px;
+    padding-top: 28px;
+    padding-left: 22px;
+    padding-right: 21px;
+    padding-bottom: 23px;
+}
+.style-duan p{
+    padding-left: 83px;
+    font-size: 25px;
+    margin-top: 12px;
+    margin-left: 14px;
+}
+.style-tranfaer{
+    height: 100px;
+}
+.Syle-tranfer{
+    margin-bottom: 30px;
+    margin-top: 20px;
+    margin-left: 30px;
+    margin-right: 30px;
+}
+.ant-transfer-list{
+    height: 367px;
+}
